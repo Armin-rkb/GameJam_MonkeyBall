@@ -1,0 +1,37 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M    (ID=0xfdf)
+    Vendor:   NVIDIA
+    VRAM:     1992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.081 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Armin\Desktop\bewijzenmap\Jaar2\Periode3\PRO\MonkeyBall\Build\Game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 33ac -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.422518 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 437.
+Total: 0.328424 ms (FindLiveObjects: 0.030219 ms CreateObjectMapping: 0.021096 ms MarkObjects: 0.258862 ms  DeleteObjects: 0.016535 ms)
+
+BallFOund
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
